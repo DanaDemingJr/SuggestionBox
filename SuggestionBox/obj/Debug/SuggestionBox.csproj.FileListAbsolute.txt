@@ -47,3 +47,6 @@ C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\Suggest
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.SqlServer.dll
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.xml
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\obj\Debug\SuggestionBox.Migrations.InitialCreate.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\obj\Debug\SuggestionBox.csproj.GenerateResource.Cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\obj\Debug\SuggestionBox.Migrations.AddName.resources
